@@ -1,5 +1,5 @@
 const container = document.getElementById('container');
-const colors = ['red','pink', 'green', 'blue', 'yellow', 'orange','purple','dodgerblue','white'];
+const colors = ['red','pink', 'green', 'blue','limegreen', 'yellow', 'orange','purple','dodgerblue','white'];
 const SQUARES = 500;
 
 for (let i = 0; i < SQUARES; i++) {
